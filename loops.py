@@ -1,5 +1,5 @@
 # Loops in Python
-# For Mobile App Class!
+# For Mobile App Class
 #
 # my_variable = "hello"
 #
